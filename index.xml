@@ -18,10 +18,19 @@
     
     <item>
       <title>Mobiliario Híbrido</title>
-      <link>https://nicopereda.github.io/docs/post-1/</link>
+      <link>https://nicopereda.github.io/docs/hibrido/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://nicopereda.github.io/docs/post-1/</guid>
+      <guid>https://nicopereda.github.io/docs/hibrido/</guid>
+      <description>Contenido de mi post 1 con Hugo</description>
+    </item>
+    
+    <item>
+      <title>Fusion 360</title>
+      <link>https://nicopereda.github.io/docs/fusion/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://nicopereda.github.io/docs/fusion/</guid>
       <description>Contenido de mi post 1 con Hugo</description>
     </item>
     
